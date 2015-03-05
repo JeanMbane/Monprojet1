@@ -5,7 +5,7 @@ Mes TD sur IOS .....AAAA
 
 tout d'abord:
 
-on cree le fichier le fichier de sauvegarde dans le telephone (exple: resut.csv) pour le localiser il suffit de faire [NSLog(@"%@",docPath)] et on a l'emplacement(" 2015-03-04 15:36:43.085 lireETsauvegardedb[1344:c07] /Users/domo/Library/Application Support/iPhone Simulator/6.1/Applications/DED0DF76-95BB-424F-980E-EFA023E1784E/Documents") ; et apres on peut afficher le dossier avec("Lire") pour voir tout se que on a deja eu a sauvegarder.. :)
+on cree le fichier de sauvegarde dans le telephone (exple: resut.csv) pour le localiser il suffit de faire [NSLog(@"%@",docPath)] et on a l'emplacement(" 2015-03-04 15:36:43.085 lireETsauvegardedb[1344:c07] /Users/domo/Library/Application Support/iPhone Simulator/6.1/Applications/DED0DF76-95BB-424F-980E-EFA023E1784E/Documents") ; et apres on peut afficher le fichie avec("Lire") pour voir tout se que on a deja eu a sauvegarder.. :)
 
 
 #Deuxieme sequence:(espdb_2.2)
