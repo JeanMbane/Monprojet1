@@ -1,3 +1,4 @@
+
 # Monprojet1
 Mes TD sur IOS .....AAAA
 
@@ -13,5 +14,11 @@ on cree le fichier de sauvegarde dans le telephone (exple: resut.csv) pour le lo
 Lire le fiche attachement de couchDB ecris en JSON.
 
 lien de l'attachement: (http://127.0.0.1:5984/database_personnel/6e078d55fc8b9060ca151136af0006d2/dataBaseEspr.json)
+
+# Troisieme sequence:(swipe) 
+swipe def: c'est comme "essuillier" mais dans se conteste on essuil l'ecran du telefone de la gauche vers la droite ou de la droite vers la gauche vis vers sa.
+l'image et le Nom sont dans  la db parse (https://parse.com). "il a une documentation bien detailer" 
+
+
 
 
